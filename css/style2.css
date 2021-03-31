@@ -1,0 +1,16 @@
+body, html{
+    background-image: url("https://www.edufever.com/wp-content/uploads/2018/06/Ram-Lal-Anand-College-Delhi.jpg");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-block1 {
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
